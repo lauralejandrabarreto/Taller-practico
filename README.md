@@ -32,6 +32,10 @@ taller-practico-gemini/
 ├── requirements.txt
 ├── README.md
 └── images/
+```
+
+---
+
 # 🚀 Ejercicio 1: Conexión y Petición Básica
 
 ## Objetivo
